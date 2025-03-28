@@ -1,5 +1,5 @@
 # Simulador de Planificación Round Robin
-**cronograma de procesos**
+** Cronograma de procesos **
 
 Este proyecto implementa un simulador visual del algoritmo de planificación Round Robin para sistemas operativos, con una interfaz gráfica interactiva desarrollada en PyQt6.
 
