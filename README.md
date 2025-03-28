@@ -2,6 +2,8 @@
 
 Este proyecto implementa un simulador visual del algoritmo de planificación Round Robin para sistemas operativos, con una interfaz gráfica interactiva desarrollada en PyQt6.
 
+https://github.com/user-attachments/assets/fe500351-cf63-4bae-a11f-f34e30b40812
+
 ## Características
 
 - **Simulación en Tiempo Real**
