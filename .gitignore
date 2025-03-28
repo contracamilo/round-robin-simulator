@@ -1,0 +1,88 @@
+# Entornos virtuales
+venv/
+env/
+.env/
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Reportes generados
+reporte_simulacion_*.xlsx
+*.xlsx
+
+# IDEs y editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+.DS_Store
+
+# Logs y bases de datos
+*.log
+*.sqlite
+*.db
+
+# Archivos de configuración local
+.env
+.env.local
+.env.*.local
+
+# Archivos de PyQt
+*.qrc
+*.qm
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# Archivos de caché de PyInstaller
+*.manifest
+*.spec
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Archivos de documentación
+docs/_build/
+docs/api/
+
+# Archivos temporales
+tmp/
+temp/ 
